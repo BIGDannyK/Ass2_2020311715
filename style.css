@@ -1,0 +1,15 @@
+li{
+    list-style-type: square;
+}
+p{
+    font-style: oblique;
+}
+body{
+    background-color: rgb(219, 241, 232);
+}
+span.badge{
+    color:black;
+}
+.container {
+    width: 640px;
+}
